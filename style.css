@@ -1,0 +1,61 @@
+body{
+	margin: 0px;
+	text-align: center;
+	}
+h1{
+	margin: 50px;
+	font-family: 'Lobster', cursive;
+	font-size: 75px;
+	color: 	#2F4F4F;
+
+}
+
+.top{
+	background-color: #87CEFA;
+	padding: 20px;
+
+}
+.middle-container{
+	
+	
+}
+.bottom-container{
+	
+}
+.bc{
+	position: absolute;
+}
+.uc{ 
+	position:relative;
+	padding-top: 100px;
+	left:175px;
+}
+.ji{
+	font-size: 30px;
+	font-family: 'Gloria Hallelujah', cursive;
+	color:#2F4F4F;
+	margin-bottom: 100px;
+	font-weight:normal;
+}
+
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+	}
+.img{
+	width: 25%;
+	float: left;
+	margin-right:30px;
+}
+.pht{
+	width: 25%;
+	float:right;
+	margin-right:250px;
+}
+.table{
+    border:20px auto 20px auto;
+}
+
